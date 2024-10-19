@@ -1,0 +1,83 @@
+.pageBackgroundColor {
+  background-color: #333333;
+  padding-bottom: 4rem;
+}
+
+.d-flex {
+  display: flex;
+  align-items: center;
+}
+
+.flex-20 {
+  flex-basis: 20%;
+}
+
+.container p {
+  font-size: 2.5rem;
+  padding-bottom: 8rem;
+  color: #fff;
+}
+
+.color-white {
+  background-color: #fff;
+  padding-bottom: 1rem;
+  border-top-right-radius: 100%;
+  border-top-left-radius: 100%;
+  display: inline-block;
+}
+
+.wrapper80 {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.card:not(:last-child) {
+  margin-right: 2rem;
+}
+
+.title-card {
+  margin-left: 1rem;
+  width: 45%;
+}
+
+.title {
+  margin-top: 1rem;
+}
+
+.card p {
+  margin-left: 0.5rem;
+  width: 90%;
+}
+
+.card img {
+  width: 80px;
+  height: 80px;
+}
+
+.content p {
+  font-size: 2rem;
+  margin-top: 1.5rem;
+  margin-left: 1.5rem;
+}
+
+.border {
+  border-bottom: 2px solid #fa6806;
+  width: 70%;
+  margin-left: 1.5rem;
+}
+
+.text {
+  margin-top: 1.5rem;
+  margin-left: 1rem;
+}
+
+.buttons button img {
+  margin-top: 1rem;
+  width: 150px;
+  height: 40px;
+}
+
+.buttons button {
+  background-color: transparent;
+  border: 0;
+}

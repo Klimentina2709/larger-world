@@ -1,0 +1,11 @@
+.logo {
+    height: 3rem; 
+    padding-right: .5rem;
+
+}
+
+.logo_wrapper {
+    display: flex;
+    align-items: center;
+    
+}

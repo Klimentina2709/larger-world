@@ -1,0 +1,110 @@
+.pageBackgroundColor {
+  padding-top: 5rem;
+  background-color: #333333;
+}
+
+.explore p {
+  color: #fff;
+  font-size: 2rem;
+  padding-bottom: 1rem;
+}
+
+.explore input {
+  margin-top: 1.5rem;
+  width: 100%;
+  background-color: transparent;
+  padding: 1rem;
+  border-radius: 2rem;
+  border: 1px solid #eeeeee;
+  color: white;
+}
+
+.fa-magnifying-glass {
+  color: #eeeeee;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.position-absolute {
+  position: absolute;
+  right: 4%;
+  top: 38%;
+}
+
+.search button {
+  margin-top: 2rem;
+  align-items: center;
+  border: 2px solid transparent;
+  border-radius: 99em;
+  font-size: 1rem;
+  padding: 1rem 8%;
+  margin-bottom: 5rem;
+  color: #fff;
+  background-color: #fa6400;
+}
+
+.border-bottom {
+  border-bottom: 2px solid #89481d;
+  width: 70%;
+}
+
+.contextText p {
+  padding-top: 2rem;
+  font-size: 1rem;
+}
+
+.wrapper90 {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.active {
+  color: orange;
+  font-weight: bold;
+}
+
+li {
+  list-style-type: none;
+  padding-top: 1.5rem;
+  color: white;
+}
+
+.categories li:not(:last-child) {
+  margin-right: 1rem;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdownToggle {
+  cursor: pointer;
+}
+
+.dropdownMenu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  z-index: 1000;
+}
+
+.dropdownMenu li {
+  padding: 8px 12px;
+  cursor: pointer;
+  text-wrap: nowrap;
+}
+
+.dropdownMenu li:hover {
+  color: #fa6400;
+}

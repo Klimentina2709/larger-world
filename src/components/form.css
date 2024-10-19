@@ -1,0 +1,17 @@
+.custom-input,
+.custom-textarea {
+  border-radius: 60px;
+  border: 2px solid#CCCCCC;
+  padding: 10px 14px;
+  width: 100%;
+  outline: none;
+  background-color: transparent;
+  color: #cccccc;
+  box-sizing: border-box;
+  margin: 8px 0;
+}
+
+.custom-textarea {
+  resize: vertical;
+  height: auto;
+}

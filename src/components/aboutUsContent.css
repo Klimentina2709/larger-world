@@ -1,0 +1,60 @@
+.about-us-container {
+  color: white;
+  padding: 40px;
+  text-align: left;
+}
+
+.section {
+  margin-bottom: 60px;
+}
+
+.about-heading,
+.unlearning-heading .who-we-are {
+  font-size: 36px;
+  text-transform: lowercase;
+  margin-bottom: 20px;
+}
+
+.about-heading {
+  border-bottom: 1px solid #ff5a00;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.unlearning-heading {
+  border-left: 4px solid #ff5a00;
+  padding-left: 10px;
+}
+
+.description {
+  font-size: 20px;
+  line-height: 1.6;
+  margin-bottom: 40px;
+}
+
+.circle-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 16px;
+  color: white;
+  font-weight: bold;
+}
+
+.purple-circle {
+  background-color: #7323f4;
+}
+
+.orange-circle {
+  background-color: #fa6400;
+}

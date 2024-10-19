@@ -1,0 +1,54 @@
+.d-flex {
+  display: flex;
+  align-items: center;
+}
+
+.wrapper80 {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.flex-80 {
+  flex-basis: 70%;
+}
+
+.flex-20 {
+  flex-basis: 30%;
+  text-align: center;
+}
+
+.watchButton button {
+  align-items: center;
+  border: 2px solid transparent;
+  border-radius: 99em;
+  font-size: 1rem;
+  padding: 1rem 5rem;
+  justify-content: center;
+  color: #fff;
+  background-color: transparent;
+  color: #d35a0a;
+  border-color: #d35a0a;
+}
+
+.mBottom {
+  margin-bottom: 8px;
+}
+
+.pBottom {
+  padding-bottom: 3rem;
+}
+
+.cardText {
+  color: #fff;
+  margin-left: 2rem;
+  padding-top: 3rem;
+  width: 50%;
+}
+
+.pageBackgroundColor {
+  background-color: #333333;
+}
+
+.title {
+  font-size: 2rem;
+}

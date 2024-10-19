@@ -1,0 +1,105 @@
+.app {
+  display: flex;
+  width: 500vw;
+  height: 84.5vh;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+}
+
+.main {
+  width: 100vw;
+  height: 84.5vh;
+  position: relative;
+  scroll-snap-align: start;
+}
+
+.tree1 {
+  position: absolute;
+  bottom: 0;
+  left: 35%;
+  transform: translateX(-50%);
+  width: 30%;
+  z-index: 10;
+}
+
+.tree2 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 25%;
+  z-index: 2;
+}
+
+.butterfly1 {
+  position: absolute;
+  left: 32%;
+  top: 10%;
+  width: 8%;
+}
+
+.butterfly2 {
+  position: absolute;
+  left: 62%;
+  top: 35%;
+  width: 8%;
+}
+
+.hedgehog {
+  position: absolute;
+  right: 10%;
+  bottom: 0;
+  width: 10%;
+}
+
+.rock1 {
+  position: absolute;
+  bottom: 0;
+  left: 5%;
+  width: 15%;
+}
+
+.noleavestree {
+  position: absolute;
+  left: 15%;
+  bottom: 0;
+  width: 25%;
+}
+
+.bg,
+.bg1,
+.bg2,
+.bg3,
+.bg4,
+.bg5 {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100vw;
+  height: 84.5vh;
+}
+
+.bg {
+  background-image: url("/img/illustrations/home1.png");
+  background-color: #82935d;
+}
+
+.bg1 {
+  background-image: url("/img/illustrations/bg1.png");
+}
+
+.bg2 {
+  background-image: url("/img/illustrations/bg2.png");
+}
+
+.bg3 {
+  background-image: url("/img/illustrations/bg3.png");
+}
+
+.bg4 {
+  background-image: url("/img/illustrations/bg4.png");
+}
+
+.bg5 {
+  background-image: url("/img/illustrations/bg5.png");
+}

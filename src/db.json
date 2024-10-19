@@ -1,0 +1,44 @@
+{
+    "data": [
+    {
+    "icon": "../../public/img/icons/IconPlay.png",
+    "title": "leonie joubert",
+    "subtitle": "mental health in sustainability",
+    "time": "5 mins",
+    "description": "leonie joubert explores the balance of maintaining mental health while passionately advocating for the climate crisis and sustainability.",
+    "button": "watch here"
+    },
+    {
+    "icon": "../../public/img/icons/IconMic.png",
+    "title": "rita isiba",
+    "subtitle": "intersectionalism",
+    "time": "02:36 mins",
+    "description": "I often hear 'we can’t accommodate everyone’s differences!' says rita isiba in this video, explaining the different facets of diversity and inclusion.",
+    "button": "listen here"
+    },
+    {
+    "icon": "../../public/img/icons/IconPlay.png",
+    "title": "tumi sineke",
+    "subtitle": "building sustainable happiness: employee well-being strategies",
+    "time": "3 mins",
+    "description": "discover the keys to fostering long-term employee happiness and well-being in the workplace while embracing sustainability practices.",
+    "button": "watch here"
+    },
+    {
+    "icon": "../../public/img/icons/IconRead.png",
+    "title": "larger.world team",
+    "subtitle": "future of work: there has to be another way",
+    "time": "01:30 mins",
+    "description": "I often hear 'we can’t accommodate everyone’s differences!' says rita isiba in this video, explaining the different facets of diversity and inclusion.",
+    "button": "read here"
+    },
+    {
+    "icon": "../../public/img/icons/IconPlay.png",
+    "title": "rita isiba",
+    "subtitle": "intersectionalism",
+    "time": "02:36 mins",
+    "description": "I often hear 'we can’t accommodate everyone’s differences!' says rita isiba in this video, explaining the different facets of diversity and inclusion.",
+    "button": "watch here"
+    }
+    ]
+    }
