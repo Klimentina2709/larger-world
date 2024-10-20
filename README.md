@@ -41,9 +41,11 @@ In August 2024, we participated in a 48-hour hackathon as a team of four, where 
 - Gained valuable experience in rapid development and teamwork in a high-pressure environment.
 - Enhanced skills in version control and collaborative coding practices.
 
-## Demo
+## Screenshot
 
-To view a live demo of the application, visit: [Insert demo link here if available]
+Here’s a screenshot of the app:
+
+![Landing Page Screenshot](public/screenshot.png)
 
 ## Installation
 
@@ -54,12 +56,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/Klimentina2709/larger-world.git
 
-<!-- Install the dependencies: -->
+# Install the dependencies:
 npm install
 
-<!-- Start the application: -->
-
+# Start the application:
 npm run dev
+
+# The app should now be running on
+http://localhost:5173.
+
 ```
 
 ## Contact
