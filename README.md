@@ -45,7 +45,7 @@ In August 2024, we participated in a 48-hour hackathon as a team of four, where 
 
 Here’s a screenshot of the app:
 
-![Landing Page Screenshot](/public/screenshot.png)
+![Landing Page Screenshot](public/img/screenshot.png)
 
 ## Installation
 
