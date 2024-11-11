@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-In August 2024, we participated in a 48-hour hackathon as a team of four, where we developed a single-page application (SPA) using React.js. The primary goal of our project was to create an engaging and user-friendly interface that showcases the client's desire for a primary focus on working with small cases and maintaining minimalistic interfaces. By prioritizing simplicity and functionality, we aimed to provide users with a seamless experience that aligns with their needs.
+In August 2024, our team of four participated in a 48-hour hackathon to develop a single-page application (SPA) focused on the concept of unlearning and promoting a sustainable, inclusive world. Built from scratch using React.js and guided by a Figma design, we prioritized simplicity and functionality to create a user-friendly interface.
+
+Despite the time constraints, we implemented key features, collaborated effectively in a remote environment, and used Git and GitHub to streamline our workflow. This experience highlighted the power of teamwork and reinforced our ability to deliver a cohesive, minimalistic product under pressure.
 
 ## Technologies Used
 
